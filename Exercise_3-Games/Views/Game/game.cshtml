@@ -1,0 +1,20 @@
+﻿
+
+@model VideoGame
+@{
+    ViewData["Title"] = "Game Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">This is @Model.Title</h1>
+    <ul>
+        <ol>Title: @Model.Title</ol>
+        <ol>Category: @Model.Category</ol>
+        <ol>Year: @Model.Year</ol>
+        <ol>PlayerCount: @Model.PlayerCount</ol>
+        <ol>Studio: @Model.Studio.Name</ol>
+        <ol>AgeRating: @Model.AgeRating</ol>
+    </ul>
+</div>
+
+

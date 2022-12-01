@@ -1,0 +1,14 @@
+﻿@model VideoGameRepository
+@{
+    ViewData["Title"] = "All Games";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to all games</h1>
+    <ul>
+        @foreach (var game in Model.VideoGames)
+        {
+            <li><a class="nav-link text-dark" asp-area="" asp-controller="Game" asp-action="game"  asp-route-id="@game.Title">@game.Title</a></li>
+        }
+    </ul>
+</div>

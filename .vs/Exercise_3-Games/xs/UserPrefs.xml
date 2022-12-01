@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{39F4A616-7BBA-471E-BDCA-947CCA297C1A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise_3-Games/Views/Game/game.cshtml">
+    <Files>
+      <File FileName="Exercise_3-Games/Models/VideoGameClasses/VideoGameRepository.cs" Line="14" Column="62" />
+      <File FileName="Exercise_3-Games/Models/VideoGameClasses/VideoGameConsole.cs" />
+      <File FileName="Exercise_3-Games/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Exercise_3-Games/Models/VideoGameClasses/Company.cs" />
+      <File FileName="Exercise_3-Games/Models/VideoGameClasses/VideoGame.cs" Line="23" Column="1" />
+      <File FileName="Exercise_3-Games/Program.cs" />
+      <File FileName="Exercise_3-Games/Models/ErrorViewModel.cs" />
+      <File FileName="Exercise_3-Games/Views/Home/Index.cshtml" />
+      <File FileName="Exercise_3-Games/Views/Home/Privacy.cshtml" />
+      <File FileName="Exercise_3-Games/Views/_ViewStart.cshtml" />
+      <File FileName="Exercise_3-Games/Views/_ViewImports.cshtml" />
+      <File FileName="Exercise_3-Games/Controllers/GameController.cs" Line="32" Column="1" />
+      <File FileName="Exercise_3-Games/Views/Game/all.cshtml" Line="12" Column="10" />
+      <File FileName="Exercise_3-Games/Views/Shared/_Layout.cshtml" />
+      <File FileName="Exercise_3-Games/Views/Shared/Error.cshtml" />
+      <File FileName="Exercise_3-Games/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Exercise_3-Games/appsettings.json" />
+      <File FileName="Exercise_3-Games/Views/Game/game.cshtml" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise_3-Games" expanded="True">
+            <Node name="Exercise_3-Games" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="VideoGameClasses" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="game.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercise__3-Games PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
